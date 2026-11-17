@@ -1,5 +1,7 @@
 # hello-github
 
+This is a new line added for Day5 study.
+
 This is the first repository in my studying of the github-using.
 
 \-I am trying to complete the  basic studying process within two months.
